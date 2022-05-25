@@ -37,4 +37,13 @@ LES JEUX NE SON PAS GARANTIE QU'IL MARCHE SUR VOS ORDI D'ÉCOLE
 VOUS ETES MIEUX D'INSTALLER LES FICHIER DANS LE DOSSIER REDIST__
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Suivez c'est instruction
- ![alt text](Image1.PNG)
+
+
+
+
+![alt text](Image1.PNG)
+
+Après 
+
+
+![alt text](Image2.PNG)
